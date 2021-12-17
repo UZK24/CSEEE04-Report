@@ -9,6 +9,9 @@
  * Version: 1.0
  **************************************************************/
 
+//The code for calculating average voltage readings and converting voltage readings to pH are adapted from:
+//https://scidle.com/how-to-use-a-ph-sensor-with-arduino/
+
 #include "subsystem_ph.h"
 #include <Arduino.h>
 
